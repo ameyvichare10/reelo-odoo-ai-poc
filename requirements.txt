@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic>=2
+pytest
+httpx
+# optional: openai   (set OPENAI_API_KEY to enable LLM answer-polishing; everything works without it)
